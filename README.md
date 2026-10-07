@@ -1,6 +1,6 @@
 # Hud+
 
-A addon wich adds more hud options.
+An addon for Meteor-client wich adds more hud options.
 
 ### How to use
 
